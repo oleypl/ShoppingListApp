@@ -1,0 +1,4 @@
+# ShoppingListApp
+
+
+Core Data tests
